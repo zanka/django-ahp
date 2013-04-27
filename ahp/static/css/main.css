@@ -1,0 +1,14 @@
+body {
+  position: relative;
+  padding-top: 40px;
+}
+
+#overview  {
+  position: relative;
+  padding: 20px 0px;
+}
+
+.comment-link {
+  font-size:10px;
+  color: #666;
+}
