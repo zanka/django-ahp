@@ -12,3 +12,15 @@ body {
   font-size:10px;
   color: #666;
 }
+
+.justify {
+  text-align: justify;
+}
+
+section {
+  padding-top: 30px;
+}
+
+.matrix td {
+  text-align: center;
+}
